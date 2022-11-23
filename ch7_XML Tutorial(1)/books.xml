@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+
+<bookstore>
+  <book category = "Children">
+    <title>Harry Potter</title>
+    <author>J K. Rowling</author>
+    <year>2005</year>
+    <price>29.99</price>
+  </book>
+  <book category = "Children">
+    <title>Le Petit Prince</title>
+    <author>Antoine de Saint-Exupéry</author>
+    <year>1943</year>
+    <price>21.00</price>
+  </book>
+
+  <book category = "Fantasy">
+    <title>The Lord of the Rings</title>
+    <author>John Ronald Reuel</author>
+    <year>1954</year>
+    <price>24.42</price>
+  </book>
+
+  <book category = "Fiction">
+    <title>A Tale of Two Cities</title>
+    <author>Charles John Huffam Dickens</author>
+    <year>1859</year>
+    <price>12.54</price>
+  </book>
+
+  <book category = "Fantasy">
+    <title>The Hobbit</title>
+    <author>John Ronald Reue</author>
+    <year>1937</year>
+    <price></price>
+  </book>
+
+  <book category = "Fiction">
+    <title>Anne of Green Gables</title>
+    <author>Lucy Maud Montgomery</author>
+    <year>1908</year>
+    <price>14.90</price>
+  </book>
+
+  <book category = "Children">
+   <title>Charlotte's Web</title>
+    <author>Elwyn Brooks White</author>
+   <year>1952</year>
+   <price>20.00</price>
+  </book>
+
+  <book category = "Children">
+    <title>Le avventure di Pinocchio. Storia di un burattino</title>
+    <author>Carlo Lorenzini</author>
+    <year>1881</year>
+    <price>18.80</price>
+  </book>
+
+  <book category = "Diary">
+    <title>The Diary of Anne Frank</title>
+    <author>Annelies Marie</author>
+    <year>1881</year>
+    <price>19.88</price>
+  </book>
+
+  <book category = "Self-help book">
+    <title>Who Moved My Cheese?</title>
+    <author></author>
+    <year>1988</year>
+    <price>30.00</price>
+  </book>
+
+</bookstore>
